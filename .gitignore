@@ -4,3 +4,8 @@
 saved_model.pb
 variables/variables.data-00000-of-00001
 variables/variables.index
+.ipynb_checkpoints/dataset-separate-checkpoint.ipynb
+.ipynb_checkpoints/plotConfusionMatrix-checkpoint.py
+plotConfusionMatrix.py
+__pycache__/plotConfusionMatrix.cpython-38.pyc
+dataset-separate.ipynb
