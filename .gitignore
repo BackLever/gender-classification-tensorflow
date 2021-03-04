@@ -9,3 +9,5 @@ variables/variables.index
 plotConfusionMatrix.py
 __pycache__/plotConfusionMatrix.cpython-38.pyc
 dataset-separate.ipynb
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+Untitled.ipynb
